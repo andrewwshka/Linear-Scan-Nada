@@ -1,0 +1,7 @@
+name = "Linear-Scan-Nada"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/list_scan_linear.py"
+prime_size = 128
